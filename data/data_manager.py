@@ -1,7 +1,5 @@
 import json
 from abc import ABC, abstractmethod
-
-from src.api import HHApi, VacanciesParser
 from src.vacancy import Vacancy
 
 

@@ -15,9 +15,6 @@ class Vacancy:
         Требования: {self.requirement}
         ссылка на вакансию: {self.vacancy_url}'''
 
-    # def __repr__(self):
-    #     return f"{self.name} {self.salary}"
-
     def __lt__(self, other):
         """сравнение self < other"""
         if self.salary is not None and other.salary is not None:
