@@ -1,0 +1,1802 @@
+[
+    {
+        "id_number": "102404974",
+        "region": "Ростов-на-Дону",
+        "name": "Стажер-разработчик Python",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "Мы ищем Python-разработчика, уровнем от Junior и выше, желательно с опытом развития новых продуктов. Уверенные знания Python 3.8...",
+        "vacancy_url": "https://hh.ru/vacancy/102404974"
+    },
+    {
+        "id_number": "102264189",
+        "region": "Брест",
+        "name": "Python Developer (Junior)",
+        "filtered_salary": 2500,
+        "currency": "BYR",
+        "requirement": "Знание HTML5/CSS. Умение работать с фреймворками Python (Django, Flask). Опыт работы с JavaScript и TypeScript. Опыт работы с...",
+        "vacancy_url": "https://hh.ru/vacancy/102264189"
+    },
+    {
+        "id_number": "101871676",
+        "region": "Москва",
+        "name": "Junior Python Django developer",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Уверенное владение Python3.9+. Django Rest Framework на хорошем уровне. Понимание принципа работы моделей, сериалайзеров, вью. ",
+        "vacancy_url": "https://hh.ru/vacancy/101871676"
+    },
+    {
+        "id_number": "101276173",
+        "region": "Москва",
+        "name": "Junior Python разработчик / IT / (удаленно)",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Уверенное владение Python, Django. - Опыт работы с СУБД PostgreSQL, MySQL, Redis. - Умение работать с фреймворками FastAPI, Flask. - Свободное владение Linux. - ",
+        "vacancy_url": "https://hh.ru/vacancy/101276173"
+    },
+    {
+        "id_number": "102306596",
+        "region": "Москва",
+        "name": "Junior Python-разработчик",
+        "filtered_salary": 40000,
+        "currency": "RUR",
+        "requirement": "Уверенное владение языком программирования Python. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий...",
+        "vacancy_url": "https://hh.ru/vacancy/102306596"
+    },
+    {
+        "id_number": "102357457",
+        "region": "Санкт-Петербург",
+        "name": "Python разработчик (Django)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знание HTML, CSS, JavaScript на базовом уровне, важно умение сверстать простую форму с использованием bootstrap. Уметь написать и отлогировать Celery...",
+        "vacancy_url": "https://hh.ru/vacancy/102357457"
+    },
+    {
+        "id_number": "101917777",
+        "region": "Санкт-Петербург",
+        "name": "Junior Python разработчик",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Комплекс Программных Средств \"Виста-Мед\". * Опыт коммерческой разработки от 1 года. * Владение Python 2/3. * Владение (My)SQL, конкретно: * * Иметь...",
+        "vacancy_url": "https://hh.ru/vacancy/101917777"
+    },
+    {
+        "id_number": "101939534",
+        "region": "Ташкент",
+        "name": "Frontend developer",
+        "filtered_salary": 5000000,
+        "currency": "UZS",
+        "requirement": "Knowledge of version control systems such as Git. Experience with Python and Django is a plus. Understanding of back-end...",
+        "vacancy_url": "https://hh.ru/vacancy/101939534"
+    },
+    {
+        "id_number": "102070970",
+        "region": "Москва",
+        "name": "Стажер-Разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "O Достаточный набор также для студентов младших курсов: ООП; Учебная практика на одном из языков программирования: C/C++, C#, Python...",
+        "vacancy_url": "https://hh.ru/vacancy/102070970"
+    },
+    {
+        "id_number": "101709026",
+        "region": "Санкт-Петербург",
+        "name": "Стажер-разработчик",
+        "filtered_salary": 50000,
+        "currency": "RUR",
+        "requirement": "Python от 3.7. FastApi/Flask. Postgresql, Sqlalchemy. Docker, git. Selenium: HTML/CSS/React преимущество. Библиотеки для разработки телеграм-ботов. ",
+        "vacancy_url": "https://hh.ru/vacancy/101709026"
+    },
+    {
+        "id_number": "102300750",
+        "region": "Ставрополь",
+        "name": "Программист Python",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Опыт разработки от 1года (Python). Языки программирования : Python, SQL. Технологии: Apache. Composer. Фреймворки: Django, Django Rest Framework. ",
+        "vacancy_url": "https://hh.ru/vacancy/102300750"
+    },
+    {
+        "id_number": "101732827",
+        "region": "Москва",
+        "name": "Django разработчик",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Отличное знание языка Python версии 3.10+, стандартов PEP8. - Отличное знание PostgreSQL. - Отличное знание классических алгоритмов, паттернов, структур...",
+        "vacancy_url": "https://hh.ru/vacancy/101732827"
+    },
+    {
+        "id_number": "102436012",
+        "region": "Алматы",
+        "name": "Программист-разработчик",
+        "filtered_salary": 300000,
+        "currency": "KZT",
+        "requirement": "Знание и опыт работы больше 2 лет в Java, C# groovy, jandcode, postgres Delphi, Net Framework. - Умение работать в команде. - ",
+        "vacancy_url": "https://hh.ru/vacancy/102436012"
+    },
+    {
+        "id_number": "102406111",
+        "region": "Москва",
+        "name": "Тестировщик (удаленная работа)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт тестирования веб-сервисов от двух лет. — Опыт тестирования API. — Знание Python для разработки автотестов и чтения чужого кода. — ",
+        "vacancy_url": "https://hh.ru/vacancy/102406111"
+    },
+    {
+        "id_number": "101091818",
+        "region": "Казань",
+        "name": "Python-Django Разработчик",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Уверенное знание Python и его особенностей. Понимание алгоритмов и стандартных структур данных. Django/DRF (более 1 года желательно). ",
+        "vacancy_url": "https://hh.ru/vacancy/101091818"
+    },
+    {
+        "id_number": "102191917",
+        "region": "Москва",
+        "name": "Python backend developer (Junior/ Junior+)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знание HTML и CSS, PostgreSQL, Flask, JavaScript. Понимание RESTful KISS, BDUF, DRY. Опыт использования GitHub или GitLab. React – как преимущество...",
+        "vacancy_url": "https://hh.ru/vacancy/102191917"
+    },
+    {
+        "id_number": "102165776",
+        "region": "Санкт-Петербург",
+        "name": "Python-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "SQL, REST, RPC. Реализация многопоточных и многопроцессных приложений. Python3. PostgreSQL. Redis. Pytest. Понимание кодирования/декодирования аудио и видео. ",
+        "vacancy_url": "https://hh.ru/vacancy/102165776"
+    },
+    {
+        "id_number": "100707850",
+        "region": "Москва",
+        "name": "Программист Python",
+        "filtered_salary": 40000,
+        "currency": "RUR",
+        "requirement": "Хорошее знание Python, SQL (умение писать достаточно сложные SQL-запросы к БД). Опыт работы не обязателен - достойной альтернативной будет образование...",
+        "vacancy_url": "https://hh.ru/vacancy/100707850"
+    },
+    {
+        "id_number": "102346806",
+        "region": "Лесной (Минская область)",
+        "name": "Frontend разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Понимание принципов работы HTTP, TLS. Знание таких языков программирования, как Python. Знание ОС Linux. Знание сетей и сетевых технологий. ",
+        "vacancy_url": "https://hh.ru/vacancy/102346806"
+    },
+    {
+        "id_number": "102348073",
+        "region": "Пермь",
+        "name": "Программист Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "нет требований",
+        "vacancy_url": "https://hh.ru/vacancy/102348073"
+    },
+    {
+        "id_number": "102325743",
+        "region": "Алматы",
+        "name": "Программист-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Стек технологий, используемых в проекте: HTML, CSS, Javascript, Git, GitHub, vue.js, nuxt.js, tailwind, bootstrap, Python, Laravel, Node.js, MySQL. ",
+        "vacancy_url": "https://hh.ru/vacancy/102325743"
+    },
+    {
+        "id_number": "102108379",
+        "region": "Астана",
+        "name": "Junior Data Engineer",
+        "filtered_salary": 150000,
+        "currency": "KZT",
+        "requirement": "знание SQL (проверяется тестированием). -аналитическое мышление. -умение работы в команде.",
+        "vacancy_url": "https://hh.ru/vacancy/102108379"
+    },
+    {
+        "id_number": "102190248",
+        "region": "Москва",
+        "name": "Стажер IT",
+        "filtered_salary": 40000,
+        "currency": "RUR",
+        "requirement": "Базовый опыт программирования на любом языке (например, Python). Опыт работы с MS Office или Google Documents. Внимательность. Знание английского языка...",
+        "vacancy_url": "https://hh.ru/vacancy/102190248"
+    },
+    {
+        "id_number": "102427755",
+        "region": "Санкт-Петербург",
+        "name": "Frontend developer (react)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Кроссбраузерная разработка функциональности для компов и мобильных устройств. Для этого точно понадобятся: Опыт разработки ПО от 3 лет. ",
+        "vacancy_url": "https://hh.ru/vacancy/102427755"
+    },
+    {
+        "id_number": "102153352",
+        "region": "Алматы",
+        "name": "Аналитик данных",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Умение писать сложные SQL запросы. Знание оконных функций. Знание Python для анализа данных. Навыки визуализации данных Power Bi/Excel графики. ",
+        "vacancy_url": "https://hh.ru/vacancy/102153352"
+    },
+    {
+        "id_number": "99728109",
+        "region": "Москва",
+        "name": "Тестировщик",
+        "filtered_salary": 80000,
+        "currency": "RUR",
+        "requirement": "Умение работать с инструментами автоматизации тестирования (например, Selenium, PyTest и др.). Знание стека технологий: Python, Django, HTML5, CSS, JavaScript...",
+        "vacancy_url": "https://hh.ru/vacancy/99728109"
+    },
+    {
+        "id_number": "95142298",
+        "region": "Москва",
+        "name": "Тестировщик ПО",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Понимание основных языков программирования, таких как Python, Java, или JavaScript. Сертификация в области тестирования качества ПО (ISTQB, CSTE и т...",
+        "vacancy_url": "https://hh.ru/vacancy/95142298"
+    },
+    {
+        "id_number": "101951553",
+        "region": "Санкт-Петербург",
+        "name": "Trainee/Intern/Junior Python backend developer",
+        "filtered_salary": 10000,
+        "currency": "RUR",
+        "requirement": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро...",
+        "vacancy_url": "https://hh.ru/vacancy/101951553"
+    },
+    {
+        "id_number": "102270852",
+        "region": "Москва",
+        "name": "QA Middle+ (гибрид)",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "Готовность к работе в команде. Знаком с синтаксисом python/JS или умеешь хоть немного программировать на них. Отправлял api запросы...",
+        "vacancy_url": "https://hh.ru/vacancy/102270852"
+    },
+    {
+        "id_number": "102352067",
+        "region": "Москва",
+        "name": "Junior machine learning engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Желательно: опыт разработки на Java/Kotlin. Python и его основные библиотеки в области анализа данных. Знание классического ML. ",
+        "vacancy_url": "https://hh.ru/vacancy/102352067"
+    },
+    {
+        "id_number": "101347651",
+        "region": "Москва",
+        "name": "Python Backend разработчик",
+        "filtered_salary": 80000,
+        "currency": "RUR",
+        "requirement": "Высшее образование (требование научной организации). Отличное знание современного Python3 (pyproject.toml, аннотации типов, современный синтаксис и стандартные библиотеки). ",
+        "vacancy_url": "https://hh.ru/vacancy/101347651"
+    },
+    {
+        "id_number": "101904521",
+        "region": "Челябинск",
+        "name": "Python backend developer",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "От вас потребуется самостоятельность при изучении, инициативность в работе и хорошее знание математики. Необходимые навыки: Python. Опыт с асинхронными очередями...",
+        "vacancy_url": "https://hh.ru/vacancy/101904521"
+    },
+    {
+        "id_number": "101735794",
+        "region": "Москва",
+        "name": "Golang разработчик (junior)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знание различных принципов программирования и СУБД. Опыт работы с микросервисной архитектурой. Знание и понимание таких структур данных, как cписки, хэш...",
+        "vacancy_url": "https://hh.ru/vacancy/101735794"
+    },
+    {
+        "id_number": "102209677",
+        "region": "Москва",
+        "name": "Middle Frontend-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт с node.js. Опыт разработки дизайн-систем. Знакомство с Python, Docker. На python писать ничего не надо будет, но иногда...",
+        "vacancy_url": "https://hh.ru/vacancy/102209677"
+    },
+    {
+        "id_number": "100346071",
+        "region": "Москва",
+        "name": "Junior Python Developer",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Знание Python, знакомство с асинхронным Python и фреймворком FastAPI. Базовые знания статической типизации в Python (annotations, typing). Знание SQL на...",
+        "vacancy_url": "https://hh.ru/vacancy/100346071"
+    },
+    {
+        "id_number": "99725937",
+        "region": "Санкт-Петербург",
+        "name": "Младший python-разработчик",
+        "filtered_salary": 85000,
+        "currency": "RUR",
+        "requirement": "Знание Python, ООП и базовых паттернов проектирования. Опыт в разработке серверных приложений на python - от 6 месяцев. Опыт работы с...",
+        "vacancy_url": "https://hh.ru/vacancy/99725937"
+    },
+    {
+        "id_number": "100682095",
+        "region": "Санкт-Петербург",
+        "name": "Аналитик данных/Data analyst",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Знаете методы сбора и подготовки данных. Являетесь уверенным пользователем SQL и Python (обязательное требование). Понимаете принципы построения аналитической отчетности. ",
+        "vacancy_url": "https://hh.ru/vacancy/100682095"
+    },
+    {
+        "id_number": "102445607",
+        "region": "Москва",
+        "name": "Junior разработчик Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Язык программирования: Python 3.9+. Знание RestApi. Опыт написание API. Опыт работы над коммерческим или опен-сорс проектом. ",
+        "vacancy_url": "https://hh.ru/vacancy/102445607"
+    },
+    {
+        "id_number": "96447887",
+        "region": "Санкт-Петербург",
+        "name": "Инженер по ручному тестированию (QA embedded)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Техническое образование. Уверенный пользователь Linux. Знание основ тестирования. Знание цикла разработки ПО. Будет плюсом. Владение скриптовыми языками (Bash / Python).",
+        "vacancy_url": "https://hh.ru/vacancy/96447887"
+    },
+    {
+        "id_number": "101503409",
+        "region": "Ташкент",
+        "name": "IT Intern",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Knowledge of English at an advanced level. Willingness to learn and grow in technology and programming.",
+        "vacancy_url": "https://hh.ru/vacancy/101503409"
+    },
+    {
+        "id_number": "100535974",
+        "region": "Москва",
+        "name": "Программист встраиваемого ПО (МК)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт разработки на C/C++ от 2 лет. Опыт использования систем сборки Make/CMake. Опыт программирование МК на базе Cortex...",
+        "vacancy_url": "https://hh.ru/vacancy/100535974"
+    },
+    {
+        "id_number": "101998011",
+        "region": "Ульяновск",
+        "name": "Разработчик Python",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "Релевантный опыт от 3 лет. Хорошее знание интеграции с платежными системами и базами данных.",
+        "vacancy_url": "https://hh.ru/vacancy/101998011"
+    },
+    {
+        "id_number": "95530824",
+        "region": "Санкт-Петербург",
+        "name": "Продуктовый аналитик, удалённо из РФ",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с Power BI и SSRS. Опыт работы с СlickHouse. Опыт работы с Airflow. Опыт работы в ритейле/e...",
+        "vacancy_url": "https://hh.ru/vacancy/95530824"
+    },
+    {
+        "id_number": "99964578",
+        "region": "Германия",
+        "name": "C++ developer to Berlin",
+        "filtered_salary": 7500,
+        "currency": "EUR",
+        "requirement": "A wide array of extremely challenging C++ development tasks. An international team of brilliant minds. We have our own range...",
+        "vacancy_url": "https://hh.ru/vacancy/99964578"
+    },
+    {
+        "id_number": "101250596",
+        "region": "Москва",
+        "name": "Продуктовый аналитик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Уверенное знание SQL. Опыт работы с MySQL, Postgres, Python. Навыки сбора данных из разных систем (БД, API). Опыт построения аналитических...",
+        "vacancy_url": "https://hh.ru/vacancy/101250596"
+    },
+    {
+        "id_number": "101377787",
+        "region": "Москва",
+        "name": "Стажер-аналитик",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Базовые знания о LLM и принципах их работы. Опыт программирования на Python от 1 года (numpy, scipy, pandas). ",
+        "vacancy_url": "https://hh.ru/vacancy/101377787"
+    },
+    {
+        "id_number": "102306085",
+        "region": "Краснодар",
+        "name": "Программист Python",
+        "filtered_salary": 30000,
+        "currency": "RUR",
+        "requirement": "Цену проставил условную. Прошу в ответе написать стоимость Вашего часа, область, в которой имели опыт, ключевые навыки.",
+        "vacancy_url": "https://hh.ru/vacancy/102306085"
+    },
+    {
+        "id_number": "98204427",
+        "region": "Кемерово",
+        "name": "Программист",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Знания Python и его особенностей, любить аннотации типов. Опыт работы с реляционными базами данных (преимущество). Понимание сетевого взаимодействия в приложениях...",
+        "vacancy_url": "https://hh.ru/vacancy/98204427"
+    },
+    {
+        "id_number": "101982971",
+        "region": "Москва",
+        "name": "Python backend developer",
+        "filtered_salary": 140000,
+        "currency": "RUR",
+        "requirement": "django/flask. - опыт коммерческой разработки от 2 лет.",
+        "vacancy_url": "https://hh.ru/vacancy/101982971"
+    },
+    {
+        "id_number": "102212928",
+        "region": "Минск",
+        "name": "Python Software Engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Strong knowledge of Python programming language. Experience of working with Django or another Python-based Web framework. Understanding REST APIs. ",
+        "vacancy_url": "https://hh.ru/vacancy/102212928"
+    },
+    {
+        "id_number": "102175962",
+        "region": "Казань",
+        "name": "Intern/Junior GO разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт коммерческой разработки на других языках (РНР, Python, Java, .NET, С++) от 1 года (предпочтительно бэкэнд). Умение работать с git. ",
+        "vacancy_url": "https://hh.ru/vacancy/102175962"
+    },
+    {
+        "id_number": "101219641",
+        "region": "Владивосток",
+        "name": "Python developer (Junior)",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Знание основных концепций Python. Опыт написания сервисов на Flask и FastAPI (коммерческий или учебный). Опыт работы с базами данных (коммерческий...",
+        "vacancy_url": "https://hh.ru/vacancy/101219641"
+    },
+    {
+        "id_number": "101261194",
+        "region": "Астана",
+        "name": "Стажер разработки мобильного приложения",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт разработки и сопровождения мобильных приложений в Фреймворк Flutter. Знание языка программирования Dart. Опыт работы с картами. Понимание и знание...",
+        "vacancy_url": "https://hh.ru/vacancy/101261194"
+    },
+    {
+        "id_number": "102155373",
+        "region": "Москва",
+        "name": "Технический писатель",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Технический кругозор в разработке. Будет плюсом: Опыт в системной аналитике или тестировании. Умение читать код на С/С++, Python. ",
+        "vacancy_url": "https://hh.ru/vacancy/102155373"
+    },
+    {
+        "id_number": "102114813",
+        "region": "Алматы",
+        "name": "Junior PL/SQL developer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Базовое владение каким-либо объектно-ориентированным языком программирования (Java, C#, C++, Python). Готовность погружаться в область карточного процессинга и электронных...",
+        "vacancy_url": "https://hh.ru/vacancy/102114813"
+    },
+    {
+        "id_number": "102181458",
+        "region": "Москва",
+        "name": "QA инженер",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Желание развиваться и систематически повышать свой профессиональный уровень. - Самостоятельность, ответственность. Желательно: - Знание Python. - Опыт администрирования Windows или Linux. - ",
+        "vacancy_url": "https://hh.ru/vacancy/102181458"
+    },
+    {
+        "id_number": "102105657",
+        "region": "Алматы",
+        "name": "Junior Data Engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Knowledge of data analytics tools and techniques (such as SQL, R, Python). Good understanding of business modelling notations. ",
+        "vacancy_url": "https://hh.ru/vacancy/102105657"
+    },
+    {
+        "id_number": "101077785",
+        "region": "Москва",
+        "name": "Разработчик Python / Django",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "Отличное знание Python, Django, Celery, PostgreSQL, Redis, ClickHouse (желателен опыт работы от 2-х лет). Опыт написания unit-тестов. ",
+        "vacancy_url": "https://hh.ru/vacancy/101077785"
+    },
+    {
+        "id_number": "101853838",
+        "region": "Алматы",
+        "name": "Frontend-разработчик",
+        "filtered_salary": 500000,
+        "currency": "KZT",
+        "requirement": "Опыт разработки мобильных приложений на базе Flutter. Опыт разработки бэкенда на Python. Опыт настройки Nginx. Понимание процесса настройки CI. ",
+        "vacancy_url": "https://hh.ru/vacancy/101853838"
+    },
+    {
+        "id_number": "101926206",
+        "region": "Сочи",
+        "name": "Стажер в Data Scientist/ML",
+        "filtered_salary": 50000,
+        "currency": "RUR",
+        "requirement": "студент/выпускник (ИТ/техническое/математическое/экономико-математическое). Базовое знание R or Python (NumPy/SciPy/Pandas). Базовое знание языка SQL. ",
+        "vacancy_url": "https://hh.ru/vacancy/101926206"
+    },
+    {
+        "id_number": "99086642",
+        "region": "Новосибирск",
+        "name": "Junior Game Designer (Balance)",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Интерес к развитию в геймдеве. Большой игровой опыт в казуальных мобильных играх. Знание основных метрик игр (ARPU, DAU и тд). ",
+        "vacancy_url": "https://hh.ru/vacancy/99086642"
+    },
+    {
+        "id_number": "100742575",
+        "region": "Москва",
+        "name": "Python разработчик",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Уверенные знания и опыт работы с Python. Опыт работы с Celery, RabbitMQ, PostgreSQL, nginx и Docker. Знание фреймворков Django, DRF...",
+        "vacancy_url": "https://hh.ru/vacancy/100742575"
+    },
+    {
+        "id_number": "101901038",
+        "region": "Алматы",
+        "name": "Junior data scientist",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Высшее или неоконченное высшее математическое или техническое образование. Знание Python на базовом уровне. Знание и опыт применения библиотек для анализа...",
+        "vacancy_url": "https://hh.ru/vacancy/101901038"
+    },
+    {
+        "id_number": "99174196",
+        "region": "Москва",
+        "name": "Python Developer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Python - опыт в разработке. Опыт написания модульных тестов. Опыт работы с реляционными СУБД. Опыт работы с Web фреймворками Python. ",
+        "vacancy_url": "https://hh.ru/vacancy/99174196"
+    },
+    {
+        "id_number": "101951291",
+        "region": "Москва",
+        "name": "Разработчик Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "имеете профильное высшее образование. — уверенно владеете языком программирования Python, понимаете как устроен runtime, умеете находить и оптимизировать узкие места в...",
+        "vacancy_url": "https://hh.ru/vacancy/101951291"
+    },
+    {
+        "id_number": "102306133",
+        "region": "Москва",
+        "name": "Python Developer (Extranet)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знаешь Unix shell и инструменты для отладки/ профилирования Python приложений. Умеешь самостоятельно настраивать окружение для разработки и есть желание писать...",
+        "vacancy_url": "https://hh.ru/vacancy/102306133"
+    },
+    {
+        "id_number": "102100553",
+        "region": "Москва",
+        "name": "QA Engineer (Middle)",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Базовые навыки написания автотестов на Java и/или Python. - Умение работать с логами. - Опыт функционального, интеграционного тестирования. - Умение быстро адаптироваться...",
+        "vacancy_url": "https://hh.ru/vacancy/102100553"
+    },
+    {
+        "id_number": "102405825",
+        "region": "Краснодар",
+        "name": "QA инженер (тестировщик)",
+        "filtered_salary": 50000,
+        "currency": "RUR",
+        "requirement": "Базовые навыки написания автотестов на Java и/или Python. - Умение работать с логами. - Опыт функционального, интеграционного тестирования. - навыки ведения документации...",
+        "vacancy_url": "https://hh.ru/vacancy/102405825"
+    },
+    {
+        "id_number": "102389512",
+        "region": "Москва",
+        "name": "QA engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "...ПО для тестирования бэка. Знание SQL. Опыт написания автотестов на Python. Понимание как строится тестовая модель в микросервисной архитектуре. ",
+        "vacancy_url": "https://hh.ru/vacancy/102389512"
+    },
+    {
+        "id_number": "102149201",
+        "region": "Москва",
+        "name": "Python developer",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Английский B1+. Подтвержденный опыт работы в качестве Python разработчика от 3 лет. Опыт написания модульных и интеграционных тестов. ",
+        "vacancy_url": "https://hh.ru/vacancy/102149201"
+    },
+    {
+        "id_number": "101690793",
+        "region": "Москва",
+        "name": "Разработчик Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Понимание как устроены web-системы. Хорошее знание Python 3+, HTTP, REST. Хорошее знание Django, DRF. Умение покрывать свой код...",
+        "vacancy_url": "https://hh.ru/vacancy/101690793"
+    },
+    {
+        "id_number": "102360999",
+        "region": "Москва",
+        "name": "Python Разработчик",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Превосходное владение Python. Опыт работы с базами данных SQL (Postgres) и NoSQL (Redis). Знание фреймворков: FastAPI, Flask, Django REST Framework. ",
+        "vacancy_url": "https://hh.ru/vacancy/102360999"
+    },
+    {
+        "id_number": "102195765",
+        "region": "Санкт-Петербург",
+        "name": "Программист",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Владение Python. Владение HTML.",
+        "vacancy_url": "https://hh.ru/vacancy/102195765"
+    },
+    {
+        "id_number": "101579846",
+        "region": "Ростов-на-Дону",
+        "name": "Frontend-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Коммерческий опыт работы с React JS и/или VueJS от 1 года. Опыт реализации SPA веб-приложений. Знание протокола клиент...",
+        "vacancy_url": "https://hh.ru/vacancy/101579846"
+    },
+    {
+        "id_number": "102307150",
+        "region": "Екатеринбург",
+        "name": "Программист Python / Екатеринбург",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Python. PHP. API. SQL – написание запросов простых и средней сложности. Коммуникабельность, логическое мышление, точность. Способность быстро разобраться в нештатных ситуациях...",
+        "vacancy_url": "https://hh.ru/vacancy/102307150"
+    },
+    {
+        "id_number": "97041487",
+        "region": "Москва",
+        "name": "Тестировщик/QA",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы тестировщиком от 2-х лет. Обязателен опыт работы с ОС Linux (командная строка: работа с файлами, с директориями...",
+        "vacancy_url": "https://hh.ru/vacancy/97041487"
+    },
+    {
+        "id_number": "98607648",
+        "region": "Москва",
+        "name": "Аналитик Excel",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт моделирования в Anaplan, IBM TM1/Cognos/Analytycs, Oracle Hyperion и SAP BPC/Planning. Опыт программирования VBA, SQL, Python...",
+        "vacancy_url": "https://hh.ru/vacancy/98607648"
+    },
+    {
+        "id_number": "102443412",
+        "region": "Москва",
+        "name": "Разработчик Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Навыки программирования на Python 3 с использованием Django/Django REST или иными веб-фреймворками. Навыки разработки unit-тестов на pytest...",
+        "vacancy_url": "https://hh.ru/vacancy/102443412"
+    },
+    {
+        "id_number": "102257816",
+        "region": "Москва",
+        "name": "Backend developer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "ООП. SOLID и Clean Architecture - принципы проектирования. REST API.",
+        "vacancy_url": "https://hh.ru/vacancy/102257816"
+    },
+    {
+        "id_number": "100712529",
+        "region": "Санкт-Петербург",
+        "name": "Python разработчик (Jun+/Middle)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Уверенное знание python3. Опыт работы с REST API, знание сетевых протоколов http, webSocket. Продвинутое знание Django (Django REST Framework). ",
+        "vacancy_url": "https://hh.ru/vacancy/100712529"
+    },
+    {
+        "id_number": "100609690",
+        "region": "Москва",
+        "name": "Cистемный администратор Linux\\DevOps",
+        "filtered_salary": 250000,
+        "currency": "RUR",
+        "requirement": "Опыт администрирования Linux-ОБЯЗАТЕЛЕН!!!. Знание скриптовых языков Bash, python как преимущество. Навыки автоматизации с помощью Ansible/Terraform. Уверенные знания сетевых...",
+        "vacancy_url": "https://hh.ru/vacancy/100609690"
+    },
+    {
+        "id_number": "101855491",
+        "region": "Ташкент",
+        "name": "Middle + Back-end developer (Python Django)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы от 2 лет в разработке Back End (Python, Django, PostgreSQL, Celery, Redis, Docker, Git, REST API, Jira / Figma...",
+        "vacancy_url": "https://hh.ru/vacancy/101855491"
+    },
+    {
+        "id_number": "101652555",
+        "region": "Москва",
+        "name": "Data analyst (стажер)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "нет требований",
+        "vacancy_url": "https://hh.ru/vacancy/101652555"
+    },
+    {
+        "id_number": "101786095",
+        "region": "Ташкент",
+        "name": "Backend dasturchisi (Python/Django)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "нет требований",
+        "vacancy_url": "https://hh.ru/vacancy/101786095"
+    },
+    {
+        "id_number": "102408403",
+        "region": "Москва",
+        "name": "Frontend Разработчик",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Отличное знание Vue.js и опыт разработки на Vue.js от 3 лет. Хорошее знание других продуктов экосистемы Vue: vuex, vuetify и...",
+        "vacancy_url": "https://hh.ru/vacancy/102408403"
+    },
+    {
+        "id_number": "102409049",
+        "region": "Гродно",
+        "name": "Стажер по проектам искусственного интеллекта (AI Research/Prompt Engineering)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Искренний интерес к AI и способность системно обрабатывать информацию. Навыки разработки на Python. Понимание основ промт инжиниринга и опыт работы...",
+        "vacancy_url": "https://hh.ru/vacancy/102409049"
+    },
+    {
+        "id_number": "102116497",
+        "region": "Москва",
+        "name": "Frontend-разработчик (React)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы на React от 3-х лет. Хотя бы 1 законченный продукт в prod среде (желателен B2C...",
+        "vacancy_url": "https://hh.ru/vacancy/102116497"
+    },
+    {
+        "id_number": "102339836",
+        "region": "Семей",
+        "name": "Python Developer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Уверенные знания языка программирования Python. Знание любого одно фреймворка на Python. Базы данных MySQL. Желание работать над крупными проектами. ",
+        "vacancy_url": "https://hh.ru/vacancy/102339836"
+    },
+    {
+        "id_number": "101501120",
+        "region": "Москва",
+        "name": "Разработчик Telegram-бота",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Опыт в разработке ботов в Telegram. Опыт в подключении приема платежей и интеграции с AI. Знание Python.",
+        "vacancy_url": "https://hh.ru/vacancy/101501120"
+    },
+    {
+        "id_number": "101697522",
+        "region": "Брест",
+        "name": "Аналитик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Навыки разработки и формирования аналитической отчетности и дашбордов. Владение Excel на высоком уровне. Power BI, SQL, Python желательно. ",
+        "vacancy_url": "https://hh.ru/vacancy/101697522"
+    },
+    {
+        "id_number": "101920925",
+        "region": "Алматы",
+        "name": "TON & Telegram разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Понимание экосистемы TON и принципов блокчейн-технологий. Уверенное владение Python и опыт разработки серверных решений. Опыт создания высокоэффективных Telegram-ботов. ",
+        "vacancy_url": "https://hh.ru/vacancy/101920925"
+    },
+    {
+        "id_number": "102193216",
+        "region": "Минск",
+        "name": "Программист Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с Django и разработки API на DRF. Уверенное владение Git. Умение писать чистый, документированный код. Понимание и умение...",
+        "vacancy_url": "https://hh.ru/vacancy/102193216"
+    },
+    {
+        "id_number": "102248328",
+        "region": "Казань",
+        "name": "Разработчик-стажер Python (parsing+backend) в области PropTech",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Знание языка программирования Python. Умение работать c фремворком Scrapy. Версионирование кода с Git и GitHub, CI/CD. Умение работать c...",
+        "vacancy_url": "https://hh.ru/vacancy/102248328"
+    },
+    {
+        "id_number": "101269067",
+        "region": "Санкт-Петербург",
+        "name": "Junior Django developer",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "С чем нужно будет работать: Уверенное знание языка Python 3.x. Опыт работы с реляционными СУБД (PostgreSQL, MySQL). ",
+        "vacancy_url": "https://hh.ru/vacancy/101269067"
+    },
+    {
+        "id_number": "101732004",
+        "region": "Москва",
+        "name": "Junior Python Developer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт в разработке Telegram ботов. — Опыт в интегрировании ИИ в ботов (интеграция ChatGPT или других аналогов). — Минимальный опыт в обеспечении...",
+        "vacancy_url": "https://hh.ru/vacancy/101732004"
+    },
+    {
+        "id_number": "102370534",
+        "region": "Москва",
+        "name": "IT-специалист/ Опытный Эникейщик",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Опыт работы от 1 года. Техническая грамотность и подкованность. Самостоятельность, интерес и азарт в решении задач. Отслеживание последних трендов в...",
+        "vacancy_url": "https://hh.ru/vacancy/102370534"
+    },
+    {
+        "id_number": "102371155",
+        "region": "Москва",
+        "name": "Junior Data Scientist",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с Python и основными библиотеками (NumPy, scikit-learn). Владение фреймворками для работы с нейронными сетями на фреймворке PyTorch...",
+        "vacancy_url": "https://hh.ru/vacancy/102371155"
+    },
+    {
+        "id_number": "102020251",
+        "region": "Минск",
+        "name": "Системный администратор / Руководитель (СTO)",
+        "filtered_salary": 8000,
+        "currency": "BYR",
+        "requirement": "Знание и понимание принципов работы Linux систем (сentos,debian,ubuntu) на высоком уровне. Опыт работы с Linux от 6-ти...",
+        "vacancy_url": "https://hh.ru/vacancy/102020251"
+    },
+    {
+        "id_number": "94056316",
+        "region": "Москва",
+        "name": "Инженер по внедрению (антифрод продукт)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Техническое образование. Опыт работы техническим специалистом в области системной интеграции от одного года. Понимание способов интеграции систем и принципов обмена...",
+        "vacancy_url": "https://hh.ru/vacancy/94056316"
+    },
+    {
+        "id_number": "101327408",
+        "region": "Шымкент",
+        "name": "WEB - Программист",
+        "filtered_salary": 350000,
+        "currency": "KZT",
+        "requirement": "Опыт работы с СRM.  Знание основ PHP/JS/CSS/HTML.  Знания Python, React, Flask Fastapi.  Основы оптимизация Big O notation.  ",
+        "vacancy_url": "https://hh.ru/vacancy/101327408"
+    },
+    {
+        "id_number": "101882059",
+        "region": "Москва",
+        "name": "QA engineer middle",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "Опыт работы с контейнерами, в частности Docker. Знание Java/Python/JS. Знание и использование CI/CD инструментов для интеграции тестирования...",
+        "vacancy_url": "https://hh.ru/vacancy/101882059"
+    },
+    {
+        "id_number": "102376188",
+        "region": "Москва",
+        "name": "Python-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с Linux, Git, Docker, Docker compose. Стек технологий: Python 3.9+. FastAPI/SqlAlchemy/Alembic/Pydantic/PyTes/ruff...",
+        "vacancy_url": "https://hh.ru/vacancy/102376188"
+    },
+    {
+        "id_number": "102078261",
+        "region": "Уфа",
+        "name": "Разработчик Python/Django",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "У тебя уверенные навыки разработки на Python и Django. Имеешь опыт коммерческой разработки на Python от 2-3 лет. ",
+        "vacancy_url": "https://hh.ru/vacancy/102078261"
+    },
+    {
+        "id_number": "102410080",
+        "region": "Санкт-Петербург",
+        "name": "Младший бизнес-аналитик / Business Analyst Junior",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Обладаешь опытом обработки данных на Python. Умеешь строить графики в Python/Excel и доносить важную информацию с их помощью. ",
+        "vacancy_url": "https://hh.ru/vacancy/102410080"
+    },
+    {
+        "id_number": "102156888",
+        "region": "Вологда",
+        "name": "Главный специалист (электронный документооборот)",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Базовые знания любого из языков программирования (например: php, C++, C#, python, java, Паскаль и т.д). Самостоятельность, ответственность, стрессоустойчивость, организованность...",
+        "vacancy_url": "https://hh.ru/vacancy/102156888"
+    },
+    {
+        "id_number": "101653612",
+        "region": "Санкт-Петербург",
+        "name": "Data Analyst/Аналитик данных (Junior)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знаете SQL и принципы работы баз данных. Знаете Python. Умеете формулировать мысли как устно, так и письменно. Имеете опыт работы...",
+        "vacancy_url": "https://hh.ru/vacancy/101653612"
+    },
+    {
+        "id_number": "102365072",
+        "region": "Санкт-Петербург",
+        "name": "Python Backend разработчик",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "Умение писать REST API. - Умение писать unit-тесты. - Linux и умение развертывать приложения. - Docker, CI/CD через Gitlab, Ansible. - ",
+        "vacancy_url": "https://hh.ru/vacancy/102365072"
+    },
+    {
+        "id_number": "101732019",
+        "region": "Новосибирск",
+        "name": "Python middle developer",
+        "filtered_salary": 110000,
+        "currency": "RUR",
+        "requirement": "Высшее техническое образование. - Хорошее знание базовых библиотек Python. - Опыт коммерческой разработки на Python от 2-х лет. - Опыт работы с...",
+        "vacancy_url": "https://hh.ru/vacancy/101732019"
+    },
+    {
+        "id_number": "101331668",
+        "region": "Москва",
+        "name": "Junior макро аналитик (Банк)",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Продвинутые навыки сбора, обработки и визуализации статистических данных и больших массивов информации (VBA, R, Python, Power BI, Fine BI). ",
+        "vacancy_url": "https://hh.ru/vacancy/101331668"
+    },
+    {
+        "id_number": "100091448",
+        "region": "Москва",
+        "name": "Fullstack developer (JS, Python)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт разработки с помощью JavaScript (React + Redux) и Python (Django) от 3х лет. Знание SQL (опыт работы с...",
+        "vacancy_url": "https://hh.ru/vacancy/100091448"
+    },
+    {
+        "id_number": "102352704",
+        "region": "Москва",
+        "name": "Разработчик учебно-методических материалов и образовательных программ",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Высшее техническое или педагогическое по направлению Информатика. Знание языков программирования Python|C++. Педагогический опыт по направлению информатика или робототехника (от...",
+        "vacancy_url": "https://hh.ru/vacancy/102352704"
+    },
+    {
+        "id_number": "102274601",
+        "region": "Москва",
+        "name": "Специалист по тестированию (QА Engineer)",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Имеете опыт от 1 года в тестировании коммерческого продукта. Имеете опыт написания тест кейсов по технической документации. Знаете жизненный цикл...",
+        "vacancy_url": "https://hh.ru/vacancy/102274601"
+    },
+    {
+        "id_number": "100463062",
+        "region": "Москва",
+        "name": "QA тестировщик",
+        "filtered_salary": 140000,
+        "currency": "RUR",
+        "requirement": "Знание SQL. Будет плюсом. Опыт автоматизации тестирования на Python или на Java. Знание ООП и паттернов разработки автотестов. ",
+        "vacancy_url": "https://hh.ru/vacancy/100463062"
+    },
+    {
+        "id_number": "101501407",
+        "region": "Москва",
+        "name": "Trader at crypto market-making company",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "You have to speak English.",
+        "vacancy_url": "https://hh.ru/vacancy/101501407"
+    },
+    {
+        "id_number": "102352780",
+        "region": "Москва",
+        "name": "Тестировщик - QA Engineer - Инженер-тестировщик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знание одного из скриптовых языков (например, Python) и опыт разработки скриптов для автоматизации на нём. Практический опыт работы с Selenium...",
+        "vacancy_url": "https://hh.ru/vacancy/102352780"
+    },
+    {
+        "id_number": "95737710",
+        "region": "Москва",
+        "name": "Младший аналитик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Можешь писать простые запросы на SQL и(или) Python. Хорошие аналитические способности, умение делать выводы и представлять их в понятном...",
+        "vacancy_url": "https://hh.ru/vacancy/95737710"
+    },
+    {
+        "id_number": "101530574",
+        "region": "Санкт-Петербург",
+        "name": "QA Engineer в IT-компании Junior+",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "Опыт тестирования API, Back, Front. — Небольшой опыт написание авто-тестов (playwright/selenium, python). — Большим плюсом будет умение работать с метриками...",
+        "vacancy_url": "https://hh.ru/vacancy/101530574"
+    },
+    {
+        "id_number": "101224019",
+        "region": "Астана",
+        "name": "Machine Learning Engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Proven experience as a Machine Learning Engineer. - Proficiency in Python and experience with FastAPI. - Strong understanding of machine learning principles...",
+        "vacancy_url": "https://hh.ru/vacancy/101224019"
+    },
+    {
+        "id_number": "102359398",
+        "region": "Москва",
+        "name": "Программист C# (Junior)",
+        "filtered_salary": 50000,
+        "currency": "RUR",
+        "requirement": "Знание C#, либо Python/Java/Go и готовность освоить C# и писать на нем. Базовые знания SQL. Математический склад ума.",
+        "vacancy_url": "https://hh.ru/vacancy/102359398"
+    },
+    {
+        "id_number": "96284602",
+        "region": "Москва",
+        "name": "Python разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знание законов и иных нормативные правовых актов Российской Федерации в области информационной безопасности (в частности Федеральный закон от 26 июля...",
+        "vacancy_url": "https://hh.ru/vacancy/96284602"
+    },
+    {
+        "id_number": "102207163",
+        "region": "Киров (Кировская область)",
+        "name": "QA-инженер / Тестировщик",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Опыт тестирования Web-приложений. Опыт автоматизации тестирования (Postman, JMeter, Python, Java). Хорошо знаешь и понимаешь техники тест-дизайна. ",
+        "vacancy_url": "https://hh.ru/vacancy/102207163"
+    },
+    {
+        "id_number": "101932918",
+        "region": "Москва",
+        "name": "Middle + / Senior Python Developer",
+        "filtered_salary": 300000,
+        "currency": "RUR",
+        "requirement": "С опытом написания в django. С опытом работы с RabbitMQ. Уверенный Linux. Будет плюсом: - опыт в разработке облачных платформ или...",
+        "vacancy_url": "https://hh.ru/vacancy/101932918"
+    },
+    {
+        "id_number": "102049829",
+        "region": "Москва",
+        "name": "Начинающий аналитик",
+        "filtered_salary": 55407,
+        "currency": "RUR",
+        "requirement": "Высшее/ неполное высшее образование. Опыт работы с большими массивами данных. Владение SQL, Python на базовом уровне.",
+        "vacancy_url": "https://hh.ru/vacancy/102049829"
+    },
+    {
+        "id_number": "101948741",
+        "region": "Москва",
+        "name": "Биоинформатик",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Уверенное владение командной строкой, практический опыт написания скриптов на языках Python, R. Знание стандартных биоинформатических пакетов, баз данных. ",
+        "vacancy_url": "https://hh.ru/vacancy/101948741"
+    },
+    {
+        "id_number": "102377078",
+        "region": "Санкт-Петербург",
+        "name": "Инженер-программист",
+        "filtered_salary": 35000,
+        "currency": "RUR",
+        "requirement": "Технический бэкграунд. Умение писать код на C# / C++ / Python. Опыт работы с промышленной робототехникой. Опыт работы с КИПиА и ПЛК. ",
+        "vacancy_url": "https://hh.ru/vacancy/102377078"
+    },
+    {
+        "id_number": "99569205",
+        "region": "Москва",
+        "name": "Middle QA-Engineer",
+        "filtered_salary": 0,
+        "currency": "RUR",
+        "requirement": "Опыт автоматизации сценариев тестирования на языке программирования Python, с использованием framework Pytest и Selenium - опыт от полугода. Знание SQL (на...",
+        "vacancy_url": "https://hh.ru/vacancy/99569205"
+    },
+    {
+        "id_number": "102199327",
+        "region": "Санкт-Петербург",
+        "name": "Junior Manual QA specialist / Ручной тестировщик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Желание развиваться в автотестирование. Интерес и желание развиваться в fintech. Знание скриптовых языков (Bash, Python). Базовое знание JS.",
+        "vacancy_url": "https://hh.ru/vacancy/102199327"
+    },
+    {
+        "id_number": "101282288",
+        "region": "Москва",
+        "name": "Аналитик Python",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "Высшее образование. Релевантный опыт работы от года обязателен. Уверенное знание Python (обязательно: опыт написания классов, умение разбираться в чужом коде...",
+        "vacancy_url": "https://hh.ru/vacancy/101282288"
+    },
+    {
+        "id_number": "101335242",
+        "region": "Пермь",
+        "name": "Python-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Имеете опыт backend-разработки на Python от 2 лет. Умеете работать с фреймворком Django. Имеете опыт работ с PostgreSQL и...",
+        "vacancy_url": "https://hh.ru/vacancy/101335242"
+    },
+    {
+        "id_number": "101921106",
+        "region": "Казань",
+        "name": "Web-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы на аналогичной должности от 1 года. Знание фреймворка js, docker, python, JavaScript, Node.js. Знание облачной инфраструктуры Yandex Cloud...",
+        "vacancy_url": "https://hh.ru/vacancy/101921106"
+    },
+    {
+        "id_number": "101863965",
+        "region": "Нижний Новгород",
+        "name": "Python-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Имеет коммерческий опыт в разработке от 2-х и более лет. Понимает основные структуры данных, алгоритмов, оценки сложности и объема...",
+        "vacancy_url": "https://hh.ru/vacancy/101863965"
+    },
+    {
+        "id_number": "102273538",
+        "region": "Санкт-Петербург",
+        "name": "Инженер-разработчик Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Имеете опыт разработки ПО и на приличном уровне знаете Python (asyncio, threading, serial, socket, tkinter/qt, ...). ​​​​​​​У нас нет нерешаемых...",
+        "vacancy_url": "https://hh.ru/vacancy/102273538"
+    },
+    {
+        "id_number": "102090329",
+        "region": "Москва",
+        "name": "Стажер Data Engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Базовые знания одного из языков программирования Python/Java/Scala. Знания SQL. Знания основных алгоритмов структур данных. Способность и готовность к...",
+        "vacancy_url": "https://hh.ru/vacancy/102090329"
+    },
+    {
+        "id_number": "101878503",
+        "region": "Москва",
+        "name": "Python разработчик (Backend)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Наличие завершенных проектов в роли разработчика с использованием Python. Знание и опыт работы с SQL (предпочтительно PostgreSQL). Уверенное знание Linux. ",
+        "vacancy_url": "https://hh.ru/vacancy/101878503"
+    },
+    {
+        "id_number": "102188579",
+        "region": "Москва",
+        "name": "Middle Python Developer",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Уверенное знание python (от 2 лет опыта). Понимание принципов асинхронного программирования. Опыт работы с FastAPI/Django. Опыт работы с PosgtreSQL. ",
+        "vacancy_url": "https://hh.ru/vacancy/102188579"
+    },
+    {
+        "id_number": "102372907",
+        "region": "Санкт-Петербург",
+        "name": "Разработчик Python (middle)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Обладает опытом работы с данными в Python от 2-х лет. Обладает знаниями SQL (сложные запросы, написание функций и процедур...",
+        "vacancy_url": "https://hh.ru/vacancy/102372907"
+    },
+    {
+        "id_number": "102196854",
+        "region": "Санкт-Петербург",
+        "name": "Junior Data Analyst",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "...в условиях дедлайнов и быстро обучаться. Высшее техническое образование, отличные знания мат.статистики. Опыт работы с SQL. Опыт работы с Python.",
+        "vacancy_url": "https://hh.ru/vacancy/102196854"
+    },
+    {
+        "id_number": "102261074",
+        "region": "Санкт-Петербург",
+        "name": "Младший инженер по тестированию",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с баг-трекинговой системой. Имеете опыт автоматизации тестирования на Python или Java. Имеете опыт работы с радиоэлектронной аппаратурой. ",
+        "vacancy_url": "https://hh.ru/vacancy/102261074"
+    },
+    {
+        "id_number": "101746208",
+        "region": "Тюмень",
+        "name": "Python Developer",
+        "filtered_salary": 50000,
+        "currency": "RUR",
+        "requirement": "Будет плюсом: Опыт работы с очередями и брокерами сообщений. Опыт работы с Celery. Опыт использования docker/docker-compose.",
+        "vacancy_url": "https://hh.ru/vacancy/101746208"
+    },
+    {
+        "id_number": "99925785",
+        "region": "Москва",
+        "name": "Junior Data Scientist (NLP)",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Знание ML (практический опыт: предобработка данных, выбор алгоритмов и тюнинг их параметров и т. д.). Знание Python. Опыт работы с...",
+        "vacancy_url": "https://hh.ru/vacancy/99925785"
+    },
+    {
+        "id_number": "102411714",
+        "region": "Москва",
+        "name": "Аналитик в команду аналитики данных",
+        "filtered_salary": 200000,
+        "currency": "RUR",
+        "requirement": "Знание языков: SQL, DAX, Python. Знание технологий: 1. Microsoft: SQL Server, SSAS, Power BI, Excel. 2. Opensource: PostgreSQL, ClickHouse, Airflow. ",
+        "vacancy_url": "https://hh.ru/vacancy/102411714"
+    },
+    {
+        "id_number": "98459592",
+        "region": "Москва",
+        "name": "Программист",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "конфиденциальность персональных данных. - возможность профессионального развития и расширения своих знаний в технических областях.",
+        "vacancy_url": "https://hh.ru/vacancy/98459592"
+    },
+    {
+        "id_number": "99861824",
+        "region": "Москва",
+        "name": "Тестировщик ПО/QA engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Умение работать с несколькими проектами одновременно. Знание языков программирования (Python, JAVA, PowerShell). Знание языка SQL на уровне написания простых запросов. ",
+        "vacancy_url": "https://hh.ru/vacancy/99861824"
+    },
+    {
+        "id_number": "102078370",
+        "region": "Санкт-Петербург",
+        "name": "Заместитель директора по ИТ",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт участия в разработке на стеках React, Python. Желательно опыт работы (администрирования) с продуктами на платформе 1С. ",
+        "vacancy_url": "https://hh.ru/vacancy/102078370"
+    },
+    {
+        "id_number": "97981603",
+        "region": "Москва",
+        "name": "Data Engineer(Стажер/Trainee)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "У тебя есть высшее техническое образование или ты студент последнего курса. Навыки SQL/Python. Ты планируешь построить карьеру в сфере...",
+        "vacancy_url": "https://hh.ru/vacancy/97981603"
+    },
+    {
+        "id_number": "100717364",
+        "region": "Москва",
+        "name": "Python-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знание SQL. - Проектирование баз данных(sqlalchemy). - Опыт работы с git. - Хорошие коммуникативные навыки. - Умение работать в команде. - Целеустремленность и умение...",
+        "vacancy_url": "https://hh.ru/vacancy/100717364"
+    },
+    {
+        "id_number": "102369047",
+        "region": "Санкт-Петербург",
+        "name": "Младший аналитик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Можешь писать простые запросы на SQL и(или) Python. Хорошие аналитические способности, умение делать выводы и представлять их в понятном...",
+        "vacancy_url": "https://hh.ru/vacancy/102369047"
+    },
+    {
+        "id_number": "102332776",
+        "region": "Волжский (Волгоградская область)",
+        "name": "Backend-разработчик",
+        "filtered_salary": 60000,
+        "currency": "RUR",
+        "requirement": "Понимание работы виртуальных АТС, работы SIP протокола. Владение языками программирования (Python, LUA). Администрирование OC Linux. Знание стека TCP/IP. ",
+        "vacancy_url": "https://hh.ru/vacancy/102332776"
+    },
+    {
+        "id_number": "101816033",
+        "region": "Казань",
+        "name": "Python разработчик в HR-tech стартап (ОАЭ)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы c Python от 2 лет. Знание Django, Docker, PostreSQL от 1.5 лет. Плюсом будет знание Kafka, Prometheus...",
+        "vacancy_url": "https://hh.ru/vacancy/101816033"
+    },
+    {
+        "id_number": "101262959",
+        "region": "Нижний Новгород",
+        "name": "Инженер по тестированию (web)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "...изменений и погружаться в большой объем информации. Будет плюсом. Умение запускать, отслеживать, анализировать запуски автотестов. Опыт разработки тестов на Python.",
+        "vacancy_url": "https://hh.ru/vacancy/101262959"
+    },
+    {
+        "id_number": "101143108",
+        "region": "Москва",
+        "name": "Junior Python разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Высшее техническое образование. Опыт программирования на python от 0,5 года. Опыт работы с библиотеками Python (selenium, pandas, sqlalchemy, pyTelegramBotAPI). ",
+        "vacancy_url": "https://hh.ru/vacancy/101143108"
+    },
+    {
+        "id_number": "99930025",
+        "region": "Москва",
+        "name": "Middle+ QA Engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт автоматизации процесса тестирования (написание автоматических тестов). Умение читать и запускать код на python или java. Инженерный бэкграунд и опыт...",
+        "vacancy_url": "https://hh.ru/vacancy/99930025"
+    },
+    {
+        "id_number": "100323480",
+        "region": "Санкт-Петербург",
+        "name": "Программист-стажер",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Высшее или неоконченное высшее техническое образование: физика/математика/вычислительная математика/кибернетика/информационные технологии. Знание теоретических основ: математический анализ, дискретный анализ...",
+        "vacancy_url": "https://hh.ru/vacancy/100323480"
+    },
+    {
+        "id_number": "102136724",
+        "region": "Москва",
+        "name": "Middle Python Developer",
+        "filtered_salary": 200000,
+        "currency": "RUR",
+        "requirement": "Опыт коммерческой разработки на Python от 3х лет. Знания принципов SOLID и DDD. Опыт работы с TDD: Опыт работы...",
+        "vacancy_url": "https://hh.ru/vacancy/102136724"
+    },
+    {
+        "id_number": "98790577",
+        "region": "Москва",
+        "name": "QA-engineer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Умеете пользоваться поисковой машиной Google и её операторами. Желание развиваться в сторону автоматизации тестирования (Python). Опыт тестирование mobile.",
+        "vacancy_url": "https://hh.ru/vacancy/98790577"
+    },
+    {
+        "id_number": "102332838",
+        "region": "Тюмень",
+        "name": "Backend разработчик на python",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "1) Опыт от 3 лет в веб-разработке. 2) Опыт от 1 года с FastAPI/Flask/Django/Django REST framework. ",
+        "vacancy_url": "https://hh.ru/vacancy/102332838"
+    },
+    {
+        "id_number": "100071705",
+        "region": "Москва",
+        "name": "Prompt-инженер / Менеджер AI / AI ARTIST",
+        "filtered_salary": 70000,
+        "currency": "RUR",
+        "requirement": "Знание Python будет плюсом. - Большим плюсом будет образование (в процессе получения) IT-специалиста. - Коммуникабельность, креативность, чувство стиля, стрессоустойчивость, соблюдение дедлайнов. - ",
+        "vacancy_url": "https://hh.ru/vacancy/100071705"
+    },
+    {
+        "id_number": "102152938",
+        "region": "Москва",
+        "name": "Аналитик второй линии поддержки",
+        "filtered_salary": 120000,
+        "currency": "RUR",
+        "requirement": "знание основ web-технологий и навыки программирования, желательно на Python. — опыт работы с DBeaver. Опыт работы с Postman. ",
+        "vacancy_url": "https://hh.ru/vacancy/102152938"
+    },
+    {
+        "id_number": "102303416",
+        "region": "Минск",
+        "name": "Web Specialist (специалист технической поддержки)",
+        "filtered_salary": 600,
+        "currency": "USD",
+        "requirement": "Общая техническая грамотность. ️ Базовые знания Web-разработки, Python, Node.js, PHP. ️ Уверенные знания JavaScript, HTML, CSS. ️ Письменный английский, А2+. ️ ",
+        "vacancy_url": "https://hh.ru/vacancy/102303416"
+    },
+    {
+        "id_number": "102246703",
+        "region": "Москва",
+        "name": "Аналитик (Python, SQL)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Оконченное высшее образование. Знание SQl на уровне простых запросов. Знание Python (построение эконометрических моделей). Знание Excel и PowerPoint (подготовка презентаций).",
+        "vacancy_url": "https://hh.ru/vacancy/102246703"
+    },
+    {
+        "id_number": "102364405",
+        "region": "Бишкек",
+        "name": "Аналитик данных",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Аналитический склад ума, коммуникабельность, быстрая обучаемость, ориентация на результат. - Опыт работы с SQL, BI-системами, Python является преимуществом.",
+        "vacancy_url": "https://hh.ru/vacancy/102364405"
+    },
+    {
+        "id_number": "102263064",
+        "region": "Астана",
+        "name": "Junior Data Analyst",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Высшее образование (приоритетно – математика, IT, физика). Опыт работы с Python и основными библиотеками для работы c данным – pandas, NumPy, SciPy...",
+        "vacancy_url": "https://hh.ru/vacancy/102263064"
+    },
+    {
+        "id_number": "101294647",
+        "region": "США",
+        "name": "Remote Chat Support Assistant",
+        "filtered_salary": 1000,
+        "currency": "USD",
+        "requirement": "Demonstrated expertise in coding languages such as VBScript, JavaScript, PowerShell, and Python, enabling the creation of efficient scripts and tools. ",
+        "vacancy_url": "https://hh.ru/vacancy/101294647"
+    },
+    {
+        "id_number": "102012417",
+        "region": "Уфа",
+        "name": "Junior python-программист в техподдержку (FastAPI)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы в тех.поддержке. Опыт работы с популярными веб-фреймворками. Понимание принципов ООП, асинхронного программирования. Уверенное владение git. ",
+        "vacancy_url": "https://hh.ru/vacancy/102012417"
+    },
+    {
+        "id_number": "101881373",
+        "region": "Санкт-Петербург",
+        "name": "Младший программист C#",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт использования GDI для отрисовки графики. Навыки программирования (или умение читать код) Python, JavaScript. Владение техническим английским языком (чтение и...",
+        "vacancy_url": "https://hh.ru/vacancy/101881373"
+    },
+    {
+        "id_number": "102421531",
+        "region": "Астана",
+        "name": "Middle Backend Developer (Django)",
+        "filtered_salary": 500000,
+        "currency": "KZT",
+        "requirement": "Опыт работы с Django от 3 лет. Глубокие знания Python и Django. Опыт работы с реляционными базами данных (PostgreSQL, MySQL). ",
+        "vacancy_url": "https://hh.ru/vacancy/102421531"
+    },
+    {
+        "id_number": "102439701",
+        "region": "Алматы",
+        "name": "Аналитик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Уверенное владение Excel (формулы, сводные таблицы). Аналитический склад ума, активность, умение и желание приобретать новые навыки. Самостоятельность и нацеленность на...",
+        "vacancy_url": "https://hh.ru/vacancy/102439701"
+    },
+    {
+        "id_number": "102208021",
+        "region": "Тюмень",
+        "name": "Программист Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Обязательно. Знание синтаксиса языка Python. Опыт разработки на Python не менее 1 года. Базовые знания принципов работы Web. ",
+        "vacancy_url": "https://hh.ru/vacancy/102208021"
+    },
+    {
+        "id_number": "102352768",
+        "region": "Санкт-Петербург",
+        "name": "QA-инженер/Тестировщик (Middle)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с Gitlab CI или другими CI инструментами. Знание Python. Опыт использования Cypress в работе. Желание развиваться в автоматизации...",
+        "vacancy_url": "https://hh.ru/vacancy/102352768"
+    },
+    {
+        "id_number": "102364926",
+        "region": "Москва",
+        "name": "Программист Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с Python (от 2-х лет). Стек технологий: web frameworks GitLab, Jenkis, Nexus, Kubernetes, Docker, RabbitMQ, Kafka. ",
+        "vacancy_url": "https://hh.ru/vacancy/102364926"
+    },
+    {
+        "id_number": "101918726",
+        "region": "Москва",
+        "name": "Стажер - тестировщик, Приложение Ozon",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт в тестировании мобильного приложения. Знание и умение применять практики тестирования. Анализ требований и написание тест-кейсов. Опыт использования снифферов.",
+        "vacancy_url": "https://hh.ru/vacancy/101918726"
+    },
+    {
+        "id_number": "101972965",
+        "region": "Москва",
+        "name": "Стажер C++/Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Будет плюсом: Опыт чтения/написания кода на C++/python. Автоматизация процессов с применением чат-ботов. Техническое образование / образование в направлении...",
+        "vacancy_url": "https://hh.ru/vacancy/101972965"
+    },
+    {
+        "id_number": "102082240",
+        "region": "Москва",
+        "name": "Бизнес-аналитик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Проявляете работоспособность и целеустремленность, умеете доводить дела до конца. Знание SQL и Python будет плюсом. Знание основ машинного обучения будет...",
+        "vacancy_url": "https://hh.ru/vacancy/102082240"
+    },
+    {
+        "id_number": "101328456",
+        "region": "Москва",
+        "name": "С/С++ Developer (инженер-программист микроконтроллеров)",
+        "filtered_salary": 400000,
+        "currency": "RUR",
+        "requirement": "...электрических принципиальных схем, понимание основ электроники. - опыт работы с ОС linux и разработки отладочного и тестового ПО (C#, Python, Go).",
+        "vacancy_url": "https://hh.ru/vacancy/101328456"
+    },
+    {
+        "id_number": "102169238",
+        "region": "Москва",
+        "name": "Unity разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Хорошие коммуникативные навыки. Будет преимуществом: - Знание других языков программирования (C++, Python, JS/TS ). - Опыт работы с CI/CD. - ",
+        "vacancy_url": "https://hh.ru/vacancy/102169238"
+    },
+    {
+        "id_number": "102384643",
+        "region": "Москва",
+        "name": "Дизайнер инфографики",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт работы с инфографикой 3+ лет. Знание Figma, Adobe Illustrator, Adobe Photoshop. Уметь работать в Excel, Google slides, PowerPoint. ",
+        "vacancy_url": "https://hh.ru/vacancy/102384643"
+    },
+    {
+        "id_number": "102099724",
+        "region": "Тбилиси",
+        "name": "Trainee Python developer (AI-ML team)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Good programming skills. Some Experience with Python Frameworks and Modules. Self-motivated and energetic team player with a strong work...",
+        "vacancy_url": "https://hh.ru/vacancy/102099724"
+    },
+    {
+        "id_number": "102441151",
+        "region": "Москва",
+        "name": "Python/Golang разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Основной технологический стек. Python, Golang, Linux, Docker, PostgreSQL, TimescaleDB, Redis, Mongo, Poetry, FastAPI, Flask, Bash & Makefiles и много другого интересного. ",
+        "vacancy_url": "https://hh.ru/vacancy/102441151"
+    },
+    {
+        "id_number": "102364554",
+        "region": "Москва",
+        "name": "Старший инженер СПД",
+        "filtered_salary": 300000,
+        "currency": "RUR",
+        "requirement": "Опыт администрирование Linux и Docker. Опыт написания скриптов на Python. Опыт администрирования Zabbix. Понимание структуры и принципов построения современных сетей...",
+        "vacancy_url": "https://hh.ru/vacancy/102364554"
+    },
+    {
+        "id_number": "99047263",
+        "region": "Екатеринбург",
+        "name": "Web-программист",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "...с sql, nosql (Postgresql, MongoDB, MySQL). Опыт разработки и использования REST API. Чтение любого распространенного языка (C#, C++, php, python).",
+        "vacancy_url": "https://hh.ru/vacancy/99047263"
+    },
+    {
+        "id_number": "101169358",
+        "region": "Москва",
+        "name": "Junior - разработчик",
+        "filtered_salary": 80000,
+        "currency": "RUR",
+        "requirement": "В каком случае какую лучше использовать. Docker. Python, Django, Pandas. Умение работать с API сторонних систем и создавать свои при...",
+        "vacancy_url": "https://hh.ru/vacancy/101169358"
+    },
+    {
+        "id_number": "101784536",
+        "region": "Санкт-Петербург",
+        "name": "IOS разработчик (международный проект)",
+        "filtered_salary": 200000,
+        "currency": "RUR",
+        "requirement": "Swift, Objective-C, UIKit (в будущем SwiftUI). Понимать базовые паттерны (в том числе архитектуры) и принципы ООП. Понимать и знать...",
+        "vacancy_url": "https://hh.ru/vacancy/101784536"
+    },
+    {
+        "id_number": "102257634",
+        "region": "Казань",
+        "name": "Стажер IT (SRE - инженер)",
+        "filtered_salary": 40000,
+        "currency": "RUR",
+        "requirement": "Законченное высшее техническое образование. Основы ООП, простейшие алгоритмы. Базовые знания Java/Python необходимы. Знакомство с БД MS SQL или Oracle. ",
+        "vacancy_url": "https://hh.ru/vacancy/102257634"
+    },
+    {
+        "id_number": "100087625",
+        "region": "Москва",
+        "name": "Backend Developer",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Умение и желание разбираться в чужом коде. Обязателен опыт работы с django, python 3.7, djangorestframework. Знание SQL (в частности...",
+        "vacancy_url": "https://hh.ru/vacancy/100087625"
+    },
+    {
+        "id_number": "100643566",
+        "region": "Нижний Новгород",
+        "name": "Программист Python",
+        "filtered_salary": 50000,
+        "currency": "RUR",
+        "requirement": "Django/flask. Postgresql. React/angular. Docker. Опыт коммерческой разработчки от 1 года.",
+        "vacancy_url": "https://hh.ru/vacancy/100643566"
+    },
+    {
+        "id_number": "100582516",
+        "region": "Санкт-Петербург",
+        "name": "Младший аналитик данных",
+        "filtered_salary": 30000,
+        "currency": "RUR",
+        "requirement": "Образование в профильной или смежной области. Знание Python (в особенности pandas), Google Sheets, Google Colab, GitHub, API. Будет круто, если...",
+        "vacancy_url": "https://hh.ru/vacancy/100582516"
+    },
+    {
+        "id_number": "102099120",
+        "region": "Москва",
+        "name": "Разработчик Python",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Уверенный навык Python, преимущественно библиотека Pandas, обработка табличных структур, работа с API. Уверенный навык SQL, принципы работы СУБД. ",
+        "vacancy_url": "https://hh.ru/vacancy/102099120"
+    },
+    {
+        "id_number": "101268737",
+        "region": "Санкт-Петербург",
+        "name": "Системный администратор",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "Знание и умение настраивать: ОС Linux, Windows. Знакомство с системами контейнеризации.",
+        "vacancy_url": "https://hh.ru/vacancy/101268737"
+    },
+    {
+        "id_number": "101450859",
+        "region": "Москва",
+        "name": "Ведущий инженер технической поддержки L3 (руководитель группы)",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Хорошие знания стека HTTP (Rest, Postman, Curl). Опыт написания скриптов (Python, Bash и Powershell). Готовность оперативно включаться в работу по...",
+        "vacancy_url": "https://hh.ru/vacancy/101450859"
+    },
+    {
+        "id_number": "102357316",
+        "region": "Ташкент",
+        "name": "Frontend-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Понимание принципов асинхронного программирования, промисов и async/await. Знание php/python/C и фреймворков. Опыт работы с RESTful и GraphQL...",
+        "vacancy_url": "https://hh.ru/vacancy/102357316"
+    },
+    {
+        "id_number": "99813356",
+        "region": "Москва",
+        "name": "Стажер Python Back-end (офис)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Основы Python, умение писать классы. Основы SQL, понимание работы JOIN / LEFT JOIN. Навыки работы с Linux (командная строка).",
+        "vacancy_url": "https://hh.ru/vacancy/99813356"
+    },
+    {
+        "id_number": "101736845",
+        "region": "Москва",
+        "name": "Python-разработчик",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Отличное знание Python и библиотек requsts, scapy. Опыт работы с веб-фреймворками (Django, Flask или FastAPI). Знание и опыт работы...",
+        "vacancy_url": "https://hh.ru/vacancy/101736845"
+    },
+    {
+        "id_number": "102142389",
+        "region": "Москва",
+        "name": "Младший аналитик-стажер",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Умеешь работать в MS Excel с большими массивами данных.",
+        "vacancy_url": "https://hh.ru/vacancy/102142389"
+    },
+    {
+        "id_number": "102272764",
+        "region": "Ташкент",
+        "name": "Fullstack Web Разработчик (Python Django/Flask)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Уверенное владение Python Django/Flask. Опыт работы с REST сервисами. Опыт использования систем распределенных очередей (Celery). Уверенное владение Html, CSS...",
+        "vacancy_url": "https://hh.ru/vacancy/102272764"
+    },
+    {
+        "id_number": "100066424",
+        "region": "Москва",
+        "name": "Разработчик C# (Junior+/Middle-)",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт участия в коммерческих или open source проектах или наличие своего проекта. Знание Python, достаточные написания простых скриптов бизнес-процессов. ",
+        "vacancy_url": "https://hh.ru/vacancy/100066424"
+    },
+    {
+        "id_number": "102211713",
+        "region": "Алматы",
+        "name": "Devops Kubernetes",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Опыт в администрировании Linux систем в инфраструктуре Kubernetes. Умение писать скрипты на Python и\\или Bash. Знание инструментов автоматизации, применяемых...",
+        "vacancy_url": "https://hh.ru/vacancy/102211713"
+    },
+    {
+        "id_number": "100099633",
+        "region": "Минск",
+        "name": "Стажер-разработчик Python",
+        "filtered_salary": 2400,
+        "currency": "BYR",
+        "requirement": "Не важен опыт, важно стремление к постоянному росту и мотивация. Rest/Fast/GraphQL Api + умение пользоваться док-ей, SQL...",
+        "vacancy_url": "https://hh.ru/vacancy/100099633"
+    },
+    {
+        "id_number": "101477648",
+        "region": "Тула",
+        "name": "Junior C# разработчик",
+        "filtered_salary": 30000,
+        "currency": "RUR",
+        "requirement": "Основные языки: C++ 20, C# 12, Java 11. Вспомогательные: Python 3, JS. Фреймворки: .NET 8, .NET Framework, JDK11. ",
+        "vacancy_url": "https://hh.ru/vacancy/101477648"
+    },
+    {
+        "id_number": "102332826",
+        "region": "Ташкент",
+        "name": "Аналитик данных",
+        "filtered_salary": 0,
+        "currency": "",
+        "requirement": "Знаешь язык Python (Pandas, NumPy). Знаешь SQL. Имеешь опыт работы с БД PostgeSQL, Clickhouse. Инициативный и самостоятельный. Имеешь аналитическое мышление.",
+        "vacancy_url": "https://hh.ru/vacancy/102332826"
+    },
+    {
+        "id_number": "101127594",
+        "region": "Москва",
+        "name": "Python разработчик",
+        "filtered_salary": 150000,
+        "currency": "RUR",
+        "requirement": "Опыт работы с front-end технологиями (HTML, CSS, JavaScript). Знание других фреймворков и библиотек Python. Опыт работы с системами контроля...",
+        "vacancy_url": "https://hh.ru/vacancy/101127594"
+    }
+]

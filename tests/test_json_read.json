@@ -1,0 +1,11 @@
+ [
+    {
+        "id_number": "102404974",
+        "region": "Ростов-на-Дону",
+        "name": "Стажер-разработчик Python",
+        "filtered_salary": 100000,
+        "currency": "RUR",
+        "requirement": "Мы ищем Python-разработчика, уровнем от Junior и выше, желательно с опытом развития новых продуктов. Уверенные знания Python 3.8...",
+        "vacancy_url": "https://hh.ru/vacancy/102404974"
+    }
+]
