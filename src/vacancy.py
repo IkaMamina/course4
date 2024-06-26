@@ -3,7 +3,7 @@ class Vacancy:
     def __init__(self, id_, region, name, salary, currency, requirement, vacancy_url):
         self.id_ = id_
         self.region = region if region else "не указано"
-        self.name = name
+        self._name = name
         self.salary = salary if salary else 0
         self.currency = currency if self.validate(currency) else ''
         self.requirement = requirement
@@ -11,11 +11,11 @@ class Vacancy:
 
     def __repr__(self):
 
-        return f"{self.name} {self.salary}"
+        return f"{self._name} {self.salary}"
 
     def __str__(self):
         """строковое представление для пользователя"""
-        return f'''id:{self.id_}, Регион: {self.region}, Вакансия: {self.name}, Зарплата: {self.salary} {self.currency}, 
+        return f'''id:{self.id_}, Регион: {self.region}, Вакансия: {self._name}, Зарплата: {self.salary} {self.currency}, 
         Требования: {self.requirement}
         ссылка на вакансию: {self.vacancy_url}'''
 
