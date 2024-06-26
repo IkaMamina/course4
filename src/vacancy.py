@@ -25,7 +25,7 @@ class Vacancy:
             return self.salary < other.salary
 
     @staticmethod
-    def validate(currency):
+    def _validate(currency):
         """проверка зарплаты в рублях"""
         if currency in ["rub", "RUR"]:
             return True
