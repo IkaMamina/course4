@@ -5,7 +5,7 @@ class Vacancy:
         self.region = region if region else "не указано"
         self._name = name
         self.salary = salary if salary else 0
-        self.currency = currency if self.validate(currency) else ''
+        self.currency = currency if self.__validate(currency) else ''
         self.requirement = requirement
         self.vacancy_url = vacancy_url
 
@@ -25,7 +25,7 @@ class Vacancy:
             return self.salary < other.salary
 
     @staticmethod
-    def _validate(currency):
+    def __validate(currency):
         """проверка зарплаты в рублях"""
         if currency in ["rub", "RUR"]:
             return True
