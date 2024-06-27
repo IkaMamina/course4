@@ -29,7 +29,7 @@ class JSONSaver(Vacancy):
 
     def save_vacancy(self, data):
         '''сохраняет экземпляры вакансий в файл'''
-        with open(self.file_name, 'w', encoding='utf-8') as file:
+        with open(self.file_name, 'a', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
     def delete_vacancy_by_id(self, vacancies_list, id_number):
