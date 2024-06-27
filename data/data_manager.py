@@ -32,7 +32,7 @@ class JSONSaver(Vacancy):
         with open(self.file_name, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
-    def delete_vacancy_by_id(self):
+    def delete_vacancy_by_id(self, vacancies_list, id_number):
         '''удаляет экземпляр вакансии по id'''
         new_vacancies_list = [vacancy for vacancy in vacancies_list if vacancy.id_ != id_number]
         if len(new_vacancies_list) == len(vacancies_list):
